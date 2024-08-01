@@ -9,7 +9,7 @@ I am a first-year computer engineering student at The Ohio State University, pas
 - 💻 Building Spring Boot applications
 - 🔒 JWT Authentication
 
-Check out my [coding portfolio!]()
+Check out my [coding blog!](https://github.com/TheoH32/csa_blog)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theodore-huntalas-487a2b279/)
